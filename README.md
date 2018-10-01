@@ -2,7 +2,7 @@ ubms_framework 1.0.0
 
 very easy & very tiny & very simple  mvc, rest  framework
 
-GNU General Public License(GPL) 2.0
+GNU General Public License(GPL) 3.0
 
 
 http://www.ubms.kr
